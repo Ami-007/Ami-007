@@ -1,8 +1,13 @@
-### Hi there 👋
 
+![Ami Header](https://user-images.githubusercontent.com/93127687/150793558-bf19dd6e-f71d-4b5e-aa50-d54db21a0c7e.jpg)
+
+
+
+### Hey there 👋,
+
+I am a graduate from the _nology full stack bootcamp, where I covered the following languages:
+HTML, CSS, JavaScript, React, Java, Spring, 
 <!--
-**Ami-007/Ami-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
