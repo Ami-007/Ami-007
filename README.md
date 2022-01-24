@@ -20,7 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p><a href="https://www.linkedin.com/in/ami-fletcher-94b724aa/">
-<img src="https://github-readme-stats.vercel.app/api?username=Ami-007&show_icons=true&count_private=true&theme=react" width="350">
-</a></p>
-
+<p><a href="https://www.linkedin.com/in/ami-fletcher-94b724aa/"></a></p>
