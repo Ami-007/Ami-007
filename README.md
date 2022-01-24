@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 <p><a href="https://www.linkedin.com/in/ami-fletcher-94b724aa/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/ho-wun-lam-17798215b/">
 </a></p>
-<img src="https://github-readme-stats.vercel.app/api?username=ami-007&show_icons=true&count_private=true&theme=react" width="350">
+<img src="https://github-readme-stats.vercel.app/api?username=Ami-007&show_icons=true&count_private=true&theme=react" width="350">
