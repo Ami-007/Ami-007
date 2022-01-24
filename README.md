@@ -4,7 +4,7 @@
 
 <p>I'm Ami.</p>
 <p>I am a Junior Full Stack Software Developer from London.</p>
-<h5> Find me on LinkedIn <p><a href="https://www.linkedin.com/in/ami-fletcher-94b724aa/">
+<h5> Find me on<p><a href="https://www.linkedin.com/in/ami-fletcher-94b724aa/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/ho-wun-lam-17798215b/">
 </a></p>
 </h5>
