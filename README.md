@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p><a href="https://www.linkedin.com/in/ami-fletcher-94b724aa/"></a></p>
+<p><a href="https://www.linkedin.com/in/ami-fletcher-94b724aa/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/ho-wun-lam-17798215b/">
+</a></p>
